@@ -179,3 +179,4 @@ The Spring PetClinic sample application is released under version 2.0 of the [Ap
 Изменение 3 в branch2: добавлена строка Z
 # branch1: первая строка A
 # branch1: вторая строка B
+# branch1: третья строка C

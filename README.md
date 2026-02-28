@@ -178,3 +178,4 @@ The Spring PetClinic sample application is released under version 2.0 of the [Ap
  1 file changed, 1 insertion(+)
 Изменение 3 в branch2: добавлена строка Z
 # branch2: первая строка X
+# branch2: вторая строка Y

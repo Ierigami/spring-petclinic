@@ -180,3 +180,4 @@ The Spring PetClinic sample application is released under version 2.0 of the [Ap
 # branch1: первая строка A
 # branch1: вторая строка B
 # branch1: третья строка C
+# branch1: коммит из второго клона 1
